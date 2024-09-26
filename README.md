@@ -22,4 +22,5 @@ join the table 2 which contain the data of Customer City? <br>
 **Database** : Microsoft SQL 
  <br>
 Schema - Online Sales Data <br>
-![sql_project](https://github.com/user-attachments/assets/c3d89958-7678-49ff-a116-cf5788e0eebe)
+
+![sql_project](https://github.com/user-attachments/assets/3d592a2e-23e0-46e5-8b6c-0ede878094ce)
