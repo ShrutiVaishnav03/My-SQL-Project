@@ -19,10 +19,7 @@ Q8: shows the Customer City name with the table one and
 join the table 2 which contain the data of Customer City? <br>
 
 <br>
-**Database**
-
-
- Microsoft SQL 
+**Database** : Microsoft SQL 
  <br>
 Schema - Online Sales Data <br>
 ![sql_project](https://github.com/user-attachments/assets/c3d89958-7678-49ff-a116-cf5788e0eebe)
