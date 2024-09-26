@@ -20,7 +20,7 @@ join the table 2 which contain the data of Customer City? <br>
 
 <br>
 **Database**
-<br>
+
 
  Microsoft SQL 
  <br>
