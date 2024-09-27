@@ -24,7 +24,7 @@ join the table 2 which contain the data of Customer City? <br>
  <br>
  **This data import from Excel.**
 <br>
-
+<br>
 Schema - Online Sales Data <br>
 <br>
 
