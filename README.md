@@ -1,6 +1,6 @@
 # My-SQL-Project
 <br>
-SQL projetc to analyze the online sales of a company.<br>
+SQL project to analyze the online sales of a company.<br>
 this data contain the order_id, category of product, profit and loss, total amount of product etc.
 <br>
 Here I solve SQL queries by creating questions like : <br>
@@ -21,6 +21,10 @@ join the table 2 which contain the data of Customer City? <br>
 <br>
 **Database** : Microsoft SQL 
  <br>
+ <br>
+ 
 Schema - Online Sales Data <br>
+<br>
+
 
 ![sql_project](https://github.com/user-attachments/assets/3d592a2e-23e0-46e5-8b6c-0ede878094ce)
