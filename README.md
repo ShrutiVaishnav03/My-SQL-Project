@@ -1,7 +1,7 @@
 # My-SQL-Project
 <br>
 SQL project to analyze the online sales of a company.<br>
-this data contain the order_id, category of product, profit and loss, total amount of product etc.
+This data import from the Excel & it contains the order_id, category of product, profit and loss, total amount of product etc.
 <br>
 Here I solve SQL queries by creating questions like : <br>
  Q1: Which category of product has largest amount? 
@@ -22,9 +22,7 @@ join the table 2 which contain the data of Customer City? <br>
 **Database** : Microsoft SQL 
  <br>
  <br>
- **This data import from Excel.**
-<br>
-<br>
+ 
 Schema - Online Sales Data <br>
 <br>
 
