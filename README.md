@@ -22,7 +22,9 @@ join the table 2 which contain the data of Customer City? <br>
 **Database** : Microsoft SQL 
  <br>
  <br>
- 
+ **This data import from Excel.**
+<br>
+
 Schema - Online Sales Data <br>
 <br>
 
